@@ -21,10 +21,10 @@ NOTE : No 2fa should be there
 dont use too much in a day
 
 change password after using too much 
-```
+
 ## Installation
 
-```
+```bash
 - apt update 
 ```
 ```bash
