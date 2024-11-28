@@ -24,7 +24,7 @@ change password after using too much
 ```
 ## Installation
 
-```bash
+```
 - apt update 
 ```
 ```bash
