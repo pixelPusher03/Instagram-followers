@@ -1,4 +1,4 @@
-# followers-increaser
+# Instagram followers
 Latest instagram follower increaser 2023 in python 100% Real using instagram api
 
 
@@ -10,14 +10,11 @@ Latest instagram follower increaser 2023 in python 100% Real using instagram api
 
 - >allows updating tool 
 
-- >Maintained 
----
-![Screenshot_20230928-003358~2](https://github.com/thedeveloper03/igfollowers/assets/123274423/47c208ab-0ca5-4fd1-b993-895d91193200)
-
 for updates
 
 
-- >bash update.sh
+``` bash
+>bash update.sh
 ```
 NOTE : No 2fa should be there
 
@@ -25,64 +22,47 @@ dont use too much in a day
 
 change password after using too much 
 ```
+## Installation
 
-Here -:
-
-## Command to install tool
-
-
-
-
-
-
-
+```bash
 - apt update 
-- apt install python git -y 
-- pip install lolcat
-- pip install --upgrade pip
-
-## Main
 ```
-git clone https://github.com/thedeveloper03/igfollowers
-
+```bash
+- apt install python git -y 
+```
+```bash
+- pip install lolcat
+```
+```bash
+- pip install --upgrade pip
+```
+```bash
+git clone https://github.com/pixelPusher03/Instagram-followers
+```
+```bash
 cd igfollowers
+```
+```bash
 pip install git+https://git@github.com/ping/instagram_private_api.git@1.6.0
 ```
-## After
+```bash
+cd Instagram-follower
 ```
-cd igfollowers
+```bash
 bash increaser.sh
 ```
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-ForHelp-green?style=for-the-badge&logo=instagram)](https://instagram.com/the_developer.01?utm_medium=copy_link)
+# DISCLAIMER ⚠️
+This tool is only created for educational purposes
 
-[![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/sm_on_top)
+Iam not responsible for any actions took by users
 
+Iam not responsible for any DAMAGE caused to people using this script
 
-### demo on youtube
-link [watch here](https://www.youtube.com/smtechmods)
+Im not responsible for any DAMAGE that you might encounter. Use At own risk.
 
+## Cyberalytics Hacklytics labs
 
-
----
-
-
-
-### about 
-
-
-
----
-
-|share 
-
-
-
-|follow| for |more |
-
-
-
----
 
 
 
